@@ -42,4 +42,4 @@ Government Hospitals and Beds dataset containing information about:
 Government_Hospitals_and_Beds_Analysis.pbix
 
 ## Author
-Your Name
+Chedadeepu Pavan
